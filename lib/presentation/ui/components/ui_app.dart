@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 // Project imports:
 import 'package:app_hive/presentation/consts/routes.dart';
 import 'package:app_hive/presentation/styles/themes.dart';
-import 'package:app_hive/presentation/utils.dart/routes.dart';
+import 'package:app_hive/presentation/utils/routes.dart';
 
 class UiApp extends StatelessWidget {
   const UiApp({super.key});
